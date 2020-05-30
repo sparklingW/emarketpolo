@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/emarketpolo/static/css/main.0ff3de09.chunk.css",
-    "main.js": "/emarketpolo/static/js/main.97b31903.chunk.js",
-    "main.js.map": "/emarketpolo/static/js/main.97b31903.chunk.js.map",
+    "main.css": "/emarketpolo/static/css/main.ea1aa7c6.chunk.css",
+    "main.js": "/emarketpolo/static/js/main.e252ac2e.chunk.js",
+    "main.js.map": "/emarketpolo/static/js/main.e252ac2e.chunk.js.map",
     "runtime-main.js": "/emarketpolo/static/js/runtime-main.a0c2bb18.js",
     "runtime-main.js.map": "/emarketpolo/static/js/runtime-main.a0c2bb18.js.map",
     "static/js/2.eb822f77.chunk.js": "/emarketpolo/static/js/2.eb822f77.chunk.js",
     "static/js/2.eb822f77.chunk.js.map": "/emarketpolo/static/js/2.eb822f77.chunk.js.map",
     "index.html": "/emarketpolo/index.html",
-    "precache-manifest.833f944da098bc534fa4f9529bab7c4f.js": "/emarketpolo/precache-manifest.833f944da098bc534fa4f9529bab7c4f.js",
+    "precache-manifest.29b38bc022c4095641b90a95e57a6f32.js": "/emarketpolo/precache-manifest.29b38bc022c4095641b90a95e57a6f32.js",
     "service-worker.js": "/emarketpolo/service-worker.js",
-    "static/css/main.0ff3de09.chunk.css.map": "/emarketpolo/static/css/main.0ff3de09.chunk.css.map",
+    "static/css/main.ea1aa7c6.chunk.css.map": "/emarketpolo/static/css/main.ea1aa7c6.chunk.css.map",
     "static/js/2.eb822f77.chunk.js.LICENSE.txt": "/emarketpolo/static/js/2.eb822f77.chunk.js.LICENSE.txt",
     "static/media/help.svg": "/emarketpolo/static/media/help.062d89c3.svg",
     "static/media/package.svg": "/emarketpolo/static/media/package.8fee74e2.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.a0c2bb18.js",
     "static/js/2.eb822f77.chunk.js",
-    "static/css/main.0ff3de09.chunk.css",
-    "static/js/main.97b31903.chunk.js"
+    "static/css/main.ea1aa7c6.chunk.css",
+    "static/js/main.e252ac2e.chunk.js"
   ]
 }
