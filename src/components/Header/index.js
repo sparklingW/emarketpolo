@@ -12,17 +12,18 @@ import './style.css';
 import { useInput } from '../../costumeHooks/useInput';
 import { useModal } from '../../costumeHooks/useModal';
 
-const ModalIn = ({ close }) => <div>Log In <span onClick={close}>X</span></div>
-const ModalUp = ({ close }) => <div>Sign Up <span onClick={close}>X</span></div>
+// Costume Components
+import Modal from '../Modal';
 
 const Header = () => {
   const search = useInput('');
   const modal = useModal('');
 
   return (
-    <React.Fragment>
-      {modal.value !== '' && modal.value === 'log_in' && <ModalIn close={modal.closeModal} />}
-      {modal.value !== '' && modal.value === 'sign_up' && <ModalUp close={modal.closeModal} />}
+    <section className='header_wrapper'>
+      {
+        modal.value !== '' && <Modal modal={modal.value} closeModal={modal.closeModal} />
+      }
       <header className='header_big'>
         <div className='header_logo'>
           <img
@@ -45,14 +46,14 @@ const Header = () => {
           />
         </div>
         <div className='header_navigation'>
-          <button className='btn btn_hover' name='log_in' {...modal}>LOG IN</button>
+          <button className='btn btn_hover' name='log_in' onClick={modal.onClick}>LOG IN</button>
           <button className='btn btn_image'>
             <img 
               src={Package}
               alt='Shop list'
             />
           </button>
-          <button className='btn btn_hover' name='sign_up' {...modal}>SIGN UP</button>
+          <button className='btn btn_hover' name='sign_up' onClick={modal.onClick}>SIGN UP</button>
         </div>
       </header>
       {/* Mobile Header */}
@@ -90,7 +91,7 @@ const Header = () => {
           />
         </div>
       </header>
-    </React.Fragment>
+    </section>
   )
 }
 

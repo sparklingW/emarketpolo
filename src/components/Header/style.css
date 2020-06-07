@@ -6,6 +6,9 @@ input::placeholder {
 button {
   outline: none;
 }
+.header_wrapper {
+  position: relative;
+}
 .header_big {
   height: 45px;
   border-bottom: 1px solid black;
