@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="15px" viewBox="0 0 77 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>polo-logopolo-logo</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="polo-logo" transform="translate(0.000000, -2.000000)">
+            <text id="Polo-Refresh" fill="#000000" fill-rule="evenodd" font-family="Silom" font-size="11" font-weight="bold">
+                <tspan x="0" y="14">Polo Refresh</tspan>
+            </text>
+            <path d="M76.5,2.57177786 L26.3210692,2.57177786 C28.5825106,7.6776852 28.5715193,12.1613629 26.2193824,16.0162223 L76.5,16.0162223 L76.5,2.57177786 Z" id="Path" stroke="#9600FF" stroke-width="1"></path>
+        </g>
+    </g>
+</svg>

@@ -1,25 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
+import { dubmbData } from './dumbdata/index';
+import { Context } from './Context';
 import './App.css';
 
-function App() {
+// Costume Components
+import Header from './components/Header/index';
+import InitialPage from './components/IntialPage/index';
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Context.Provider value={dubmbData}>
+      <div className='application_wrapper'>
+        <Header />
+        <InitialPage />
+      </div>
+    </Context.Provider>
   );
 }
 
