@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/emarketpolo/static/css/main.ea1aa7c6.chunk.css",
-    "main.js": "/emarketpolo/static/js/main.e252ac2e.chunk.js",
-    "main.js.map": "/emarketpolo/static/js/main.e252ac2e.chunk.js.map",
+    "main.js": "/emarketpolo/static/js/main.1e751a94.chunk.js",
+    "main.js.map": "/emarketpolo/static/js/main.1e751a94.chunk.js.map",
     "runtime-main.js": "/emarketpolo/static/js/runtime-main.a0c2bb18.js",
     "runtime-main.js.map": "/emarketpolo/static/js/runtime-main.a0c2bb18.js.map",
-    "static/js/2.eb822f77.chunk.js": "/emarketpolo/static/js/2.eb822f77.chunk.js",
-    "static/js/2.eb822f77.chunk.js.map": "/emarketpolo/static/js/2.eb822f77.chunk.js.map",
+    "static/js/2.1717e3c8.chunk.js": "/emarketpolo/static/js/2.1717e3c8.chunk.js",
+    "static/js/2.1717e3c8.chunk.js.map": "/emarketpolo/static/js/2.1717e3c8.chunk.js.map",
     "index.html": "/emarketpolo/index.html",
-    "precache-manifest.29b38bc022c4095641b90a95e57a6f32.js": "/emarketpolo/precache-manifest.29b38bc022c4095641b90a95e57a6f32.js",
+    "precache-manifest.97317bb60c829ebec53fc06b4fb1b1a0.js": "/emarketpolo/precache-manifest.97317bb60c829ebec53fc06b4fb1b1a0.js",
     "service-worker.js": "/emarketpolo/service-worker.js",
     "static/css/main.ea1aa7c6.chunk.css.map": "/emarketpolo/static/css/main.ea1aa7c6.chunk.css.map",
-    "static/js/2.eb822f77.chunk.js.LICENSE.txt": "/emarketpolo/static/js/2.eb822f77.chunk.js.LICENSE.txt",
+    "static/js/2.1717e3c8.chunk.js.LICENSE.txt": "/emarketpolo/static/js/2.1717e3c8.chunk.js.LICENSE.txt",
     "static/media/help.svg": "/emarketpolo/static/media/help.062d89c3.svg",
     "static/media/package.svg": "/emarketpolo/static/media/package.8fee74e2.svg",
     "static/media/polo-logo.svg": "/emarketpolo/static/media/polo-logo.00e1a3d1.svg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a0c2bb18.js",
-    "static/js/2.eb822f77.chunk.js",
+    "static/js/2.1717e3c8.chunk.js",
     "static/css/main.ea1aa7c6.chunk.css",
-    "static/js/main.e252ac2e.chunk.js"
+    "static/js/main.1e751a94.chunk.js"
   ]
 }

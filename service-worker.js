@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/emarketpolo/precache-manifest.29b38bc022c4095641b90a95e57a6f32.js"
+  "/emarketpolo/precache-manifest.97317bb60c829ebec53fc06b4fb1b1a0.js"
 );
 
 self.addEventListener('message', (event) => {

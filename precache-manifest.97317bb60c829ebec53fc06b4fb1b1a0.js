@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb6286539ac2373829b31bbe57a8c7e8",
+    "revision": "18e5ffd89ccf2474d1c1f395dfc5da53",
     "url": "/emarketpolo/index.html"
   },
   {
-    "revision": "5587b9ac57e1a0e4cc6c",
+    "revision": "3a24f771186b49412536",
     "url": "/emarketpolo/static/css/main.ea1aa7c6.chunk.css"
   },
   {
-    "revision": "d489cd435ced59c74840",
-    "url": "/emarketpolo/static/js/2.eb822f77.chunk.js"
+    "revision": "6b9acf07e819ab262aae",
+    "url": "/emarketpolo/static/js/2.1717e3c8.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/emarketpolo/static/js/2.eb822f77.chunk.js.LICENSE.txt"
+    "url": "/emarketpolo/static/js/2.1717e3c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5587b9ac57e1a0e4cc6c",
-    "url": "/emarketpolo/static/js/main.e252ac2e.chunk.js"
+    "revision": "3a24f771186b49412536",
+    "url": "/emarketpolo/static/js/main.1e751a94.chunk.js"
   },
   {
     "revision": "5b15ac1e6ed105dcc511",
